@@ -9,6 +9,7 @@ I have included some extra images for testing and validation.
 
 Results: https://drive.google.com/drive/folders/1t6DE7tzg4OBtJyEK4AAcWFD3P6CiTgTj?usp=sharing
 
+Switch to the given directory for code and detailed explanation.
 ```
 cd {Directory name}
 ```
