@@ -1,5 +1,13 @@
 <h1>Barcode Decode and Detect</h1>
+Detect the barcode in an image using predefined kernel(Rule Based Approach) or Deep Learning models.
 
+To train DL model I have used 12-14 images, annoted them according to the requirement of problem statement. 
+
+Dataset Link: https://drive.google.com/drive/folders/1bxoRNTp0St4h9tVkJSNQTb0ItwUYKbEo?usp=sharing
+
+I have included some extra images for testing and validation.
+
+Results: https://drive.google.com/drive/folders/1t6DE7tzg4OBtJyEK4AAcWFD3P6CiTgTj?usp=sharing
 
 ```
 cd {Directory name}
