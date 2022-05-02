@@ -28,3 +28,9 @@ Change the path of pickle file and weights accordingly.
 Training time: approx 2 hrs<br>
 Testing time per image: 0.5 sec approx
 
+<h1>Results: </h1>
+<a href = "https://drive.google.com/drive/folders/1xg7vlsH_0tdHc_cL-bYl8k8vsH8jdYw-?usp=sharing">Model outputs</a>
+<br>
+<img src = "./Results/res1.jpg">
+<img src = "./Results/res2.jpg">
+
