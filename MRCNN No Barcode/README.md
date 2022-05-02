@@ -34,3 +34,7 @@ Testing time per image: 2 sec approx
 <img src = "./Results/res1.jpg">
 <img src = "./Results/res2.jpg">
 
+
+<h2>Future Work</h2>
+As in this particular case it is hard to explain whether out model is learning what we want it to learn i.e, look at object find if there is barcode or not if not draw a bounding box. 
+We can use <b>Intel OpenVino Toolkit</b> to analyze the model. 
